@@ -59,7 +59,7 @@ I'll be sharing step-by-step walkthroughs of projects in areas like:
 
 ## 📫 Connect With Me
 
-- https://www.linkedin.com/in/emmanuel-igbinadolor-6b9335273/  
+-  https://www.linkedin.com/in/emmanuel-igbinadolor-6b9335273/  
 - 📧 igbinadoloremmanuel7@gmail.com  
 
 ---
